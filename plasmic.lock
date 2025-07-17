@@ -64,11 +64,6 @@
         },
         {
           "assetId": "vZME8dHU2Xotr7u7WHB28W",
-          "type": "projectCss",
-          "checksum": "ea3a566b75a95c548fc2f004c25b5663"
-        },
-        {
-          "assetId": "vZME8dHU2Xotr7u7WHB28W",
           "checksum": "2bdfa46c914fc2adcb689c53bd918296",
           "type": "globalContexts"
         },
@@ -101,6 +96,11 @@
           "type": "icon",
           "assetId": "j2SyWuVCPmzD",
           "checksum": "0c58fc0baac950cd1256dfb5029d4d3c"
+        },
+        {
+          "assetId": "vZME8dHU2Xotr7u7WHB28W",
+          "type": "projectCss",
+          "checksum": "ea3a566b75a95c548fc2f004c25b5663"
         }
       ],
       "codegenVersion": "0.0.1"
